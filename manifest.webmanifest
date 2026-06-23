@@ -10,13 +10,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://ttaeguni.github.io/susi-admission-data/susi-icon.png?v=2",
+      "src": "https://ttaeguni.github.io/susi-admission-data/susi-icon.png?v=3",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://ttaeguni.github.io/susi-admission-data/susi-icon.png?v=2",
+      "src": "https://ttaeguni.github.io/susi-admission-data/susi-icon.png?v=3",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
